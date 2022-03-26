@@ -12,7 +12,16 @@
     "ejs": "^2.7.4",
     "express": "^4.17.3",
     "lodash": "^4.17.21",
+    "mongoose": "^6.2.8",
     "n_": "^3.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenadMesetovic/Blog-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SenadMesetovic/Blog-Website/issues"
+  },
+  "homepage": "https://github.com/SenadMesetovic/Blog-Website#readme",
   "description": ""
 }
